@@ -1,0 +1,4 @@
+Modelo,ROC_AUC
+Regresion_Logistica,0.9633699633699634
+Random_Forest,0.9827838827838827
+Red_Neuronal,0.9384615384615385
