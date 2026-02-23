@@ -1,0 +1,12 @@
+Posicion,Variable,Importancia_SHAP_media
+1,nota_primer_parcial,0.0848314306587744
+2,nota_segundo_parcial,0.08380678274129581
+3,promedio_previo,0.01139310290622162
+4,engagement_score,0.010626212735218184
+5,edad,0.009699496495699957
+6,ratio_asistencia,0.009516405404351197
+7,tiempo_total_conexion_min,0.008744046507752672
+8,total_accesos_lms,0.008290132345305916
+9,retroalimentaciones_docente,0.007714036510579472
+10,participaciones_foro,0.006794219740156481
+11,ratio_tareas,0.0034291545259541316
